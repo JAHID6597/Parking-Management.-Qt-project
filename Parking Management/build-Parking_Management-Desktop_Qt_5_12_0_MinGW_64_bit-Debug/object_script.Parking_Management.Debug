@@ -1,0 +1,16 @@
+debug/main.o
+debug/mainwindow.o
+debug/admin.o
+debug/adminpage.o
+debug/in.o
+debug/car.o
+debug/carout.o
+debug/delete.o
+debug/qrc_image.o
+debug/moc_mainwindow.o
+debug/moc_admin.o
+debug/moc_adminpage.o
+debug/moc_in.o
+debug/moc_car.o
+debug/moc_carout.o
+debug/moc_delete.o

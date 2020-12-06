@@ -1,0 +1,16 @@
+release/main.o
+release/mainwindow.o
+release/admin.o
+release/adminpage.o
+release/in.o
+release/car.o
+release/carout.o
+release/delete.o
+release/qrc_image.o
+release/moc_mainwindow.o
+release/moc_admin.o
+release/moc_adminpage.o
+release/moc_in.o
+release/moc_car.o
+release/moc_carout.o
+release/moc_delete.o

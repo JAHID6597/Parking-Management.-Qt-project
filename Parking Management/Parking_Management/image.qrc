@@ -1,0 +1,29 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>Image/Car Parking Zone.jpg</file>
+        <file>Image/Mantravar.png</file>
+        <file>Image/blocked.jpg</file>
+        <file>Image/free.jpg</file>
+        <file>Image/parked.png</file>
+        <file>Image/banner_city.jpg</file>
+    </qresource>
+    <qresource prefix="/new/icons">
+        <file>icons/12-512.png</file>
+        <file>icons/30_Car_top-512.png</file>
+        <file>icons/cars-512.png</file>
+        <file>icons/cars-5122.png</file>
+        <file>icons/Geotag_parking-512.png</file>
+        <file>icons/parking-512.png</file>
+        <file>icons/parking-5122.png</file>
+        <file>icons/parking-lot-layout-blk.jpg</file>
+        <file>icons/parking-lot-layout-wht.jpg</file>
+        <file>icons/cars-512l2.png</file>
+        <file>icons/cars-512r2.png</file>
+        <file>icons/cars-5122l1.png</file>
+        <file>icons/cars-5122r1.png</file>
+        <file>icons/parking-512l1.png</file>
+        <file>icons/parking-512r1.png</file>
+        <file>icons/parking-5122l2.png</file>
+        <file>icons/parking-5122r2.png</file>
+    </qresource>
+</RCC>

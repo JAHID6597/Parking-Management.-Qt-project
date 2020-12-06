@@ -1,0 +1,9 @@
+PARK TIME: Friday, 15 March 2019 09:42:33 PM***SERIAL: 29214***VEHICLE NO.: U47***Slot no.: SLOT 24***NAME: 56754
+PARK TIME: Friday, 15 March 2019 09:42:41 PM***SERIAL: 37761***VEHICLE NO.: 6U7TY***Slot no.: SLOT 15***NAME: tytytytytyr
+PARK TIME: Friday, 15 March 2019 09:42:50 PM***SERIAL: 46170***VEHICLE NO.: 7677***Slot no.: SLOT 13***NAME: 477
+OUT TIME: Friday, 15 March 2019 09:42:59 PM***SERIAL: 46170***BILL PAID: 0.03 taka only.***slot***vh.no
+OUT TIME: Friday, 15 March 2019 09:43:05 PM***SERIAL: 37761***BILL PAID: 0.09 taka only.***slot***vh.no
+PARK TIME: Saturday, 16 March 2019 04:13:50 PM***SERIAL: 46054***VEHICLE NO.: EWERR***Slot no.: SLOT 4***NAME: dssdgs
+PARK TIME: Saturday, 16 March 2019 04:13:57 PM***SERIAL: 53793***VEHICLE NO.: WSETGSD***Slot no.: SLOT 9***NAME: sdfsdfg
+PARK TIME: Saturday, 16 March 2019 09:37:17 PM***SERIAL: 13310***VEHICLE NO.: 3523***Slot no.: SLOT 5***NAME: dssd
+PARK TIME: Sunday, 17 March 2019 02:24:15 AM***SERIAL: 11256***VEHICLE NO.: 4343***Slot no.: SLOT 14***NAME: ddfaf

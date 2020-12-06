@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/">
+        <file>C:/PMS data/Slots_bike/booked_slot_bike.txt</file>
+    </qresource>
+</RCC>
